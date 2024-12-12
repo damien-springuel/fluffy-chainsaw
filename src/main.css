@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .fc-app {
+    @apply h-full text-xl text-center
+  }
+}
