@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "A",
+    "ingredients": ["ing1", "ing2"],
+    "preparation": ["step1", "step2", "step3"]
+  },
+  {
+    "id": 2,
+    "name": "B",
+    "ingredients": ["ing3", "ing4", "ing5"],
+    "preparation": ["step4", "step5", "step6"]
+  },
+  {
+    "id": 3,
+    "name": "C",
+    "ingredients": [],
+    "preparation": [],
+    "note": "This is a note"
+  }
+]
